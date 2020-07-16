@@ -3,17 +3,19 @@
   background: #E7DA89;
 
 }
+.photo{
+
+  background: #283339;
+  color:white;
+
+
+
+}
 .experience{
   background: #FAC7AA;
 }
-.photos{
-  background:#283339;
 
-}
-.light-text{
-    color: white;
 
-}
 header{
   font-family: 'Permanent Marker', cursive;
 }
@@ -35,4 +37,24 @@ nav{
   background-color: white;
 }
 
-  
+
+
+/* unvisited link */
+a:link {
+  color: #284326;
+}
+
+/* visited link */
+a:visited {
+  color: #283339;
+}
+
+/* mouse over link */
+a:hover {
+  color: #E7DA89;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
