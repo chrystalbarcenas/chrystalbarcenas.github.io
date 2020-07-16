@@ -1,0 +1,54 @@
+.intro{
+
+  background: #E7DA89;
+
+}
+.experience{
+  background: #FAC7AA;
+}
+.photos{
+  background:#283339;
+
+}
+.light-text{
+    color: white;
+
+}
+header{
+  font-family: 'Permanent Marker', cursive;
+}
+.p-coloralt{
+  background-color: #BD5A6E;
+}
+.p-coloralt2{
+  background-color: #284326;
+}
+ul.bullets {
+  list-style-type: square;
+  color: white;
+}
+
+ol.letters {
+  list-style-type: lower-alpha;
+}
+nav{
+  background-color: white;
+}
+
+  color: #284326;
+}
+
+a:focus {
+  border-bottom: 1px solid;
+  background: white;
+}
+
+a:hover {
+  border-bottom: 1px solid;
+  background: #BD5A6E;
+}
+
+a:active {
+  background:#284326 ;
+  color: #BD5A6E;
+}
